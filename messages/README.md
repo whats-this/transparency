@@ -1,4 +1,4 @@
-# Transparency statements for whats-th.is
+# Transparency statements for Whats-Th.is
 Assume something has happened if this has not been updated in a month, although
 it should be updated every two weeks by
 [@deansheather](https://github.com/deansheather).

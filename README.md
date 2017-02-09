@@ -4,7 +4,7 @@ and our canary.
 
 # Canary
 The most recent canary file can be found in canary.asc and at
-https://owo.whats-th.is/0f7dc0.asc.
+https://owo.whats-th.is/230ff3.asc.
 
 Assume something has happened if this has not been updated in a month, although
 it should be updated every week by
@@ -19,4 +19,3 @@ The key is also available in `public.asc` and at
 https://owo.whats-th.is/ce1548.asc for convenience.
 
 Verification can easily be performed at [Keybase.io](https://keybase.io/verify).
-

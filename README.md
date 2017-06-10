@@ -4,7 +4,7 @@ and our canary.
 
 # Canary
 The most recent canary file can be found in canary.asc and at
-https://owo.whats-th.is/7ea2fa.asc.
+https://owo.whats-th.is/1a21ac.asc.
 
 Assume something has happened if this has not been updated in a month, although
 it should be updated every week by

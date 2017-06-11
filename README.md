@@ -1,8 +1,13 @@
 # Whats-this transparency
+
 A log of all DMCA takedown requests and their outcome, removed file metadata,
 and our canary.
 
-# Canary
+All dates in this repository are in the format `MMM DD, YYYY [HH:mm]` or
+`YYYY-MM-DD [HH:mm]`.
+
+### Canary
+
 The most recent canary file can be found in canary.asc and at
 https://owo.whats-th.is/1a21ac.asc.
 
@@ -11,6 +16,7 @@ it should be updated every week by
 [@deansheather](https://github.com/deansheather).
 
 ### Signing key
+
 All cryptographically signed messages in this repo are signed using the key on
 [Dean Sheather's Keybase profile](https://keybase.io/deansheather),
 https://keybase.io/deansheather/key.asc.

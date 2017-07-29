@@ -9,7 +9,7 @@ All dates in this repository are in the format `MMM DD, YYYY [HH:mm]` or
 ### Canary
 
 The most recent canary file can be found in canary.asc and at
-https://owo.whats-th.is/59a3d6.asc.
+https://owo.whats-th.is/338897.asc.
 
 Assume something has happened if this has not been updated in a month, although
 it should be updated every week by

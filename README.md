@@ -8,12 +8,14 @@ All dates in this repository are in the format `MMM DD, YYYY [HH:mm]` or
 
 ### Canary
 
-The most recent canary file can be found in canary.asc and at
-https://owo.whats-th.is/ca574b.asc.
+We used to have a warrant canary but it never got updated because it kept
+getting put off. Dean Sheather, who signed it, lives in Australia anyways, which
+unfourtunately has private key disclosure laws. This means that if the court did
+send a gag order, they could also seize the private key and continue signing
+messages as per usual without our permission.
 
-Assume something has happened if this has not been updated in a month, although
-it should be updated every week by
-[@deansheather](https://github.com/deansheather).
+To ease your mind, a final warrant canary can be found in canary.asc and at
+https://owo.whats-th.is/49WzQqX.asc.
 
 ### Signing key
 
